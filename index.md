@@ -14,7 +14,7 @@ Bienvenue sur la boite a cochonneries d'un groupuscule d'employes de Sinequa a p
 | Item          | Prix          |
 | ------------- |:-------------:|
 | Kit Kat       | 0.47          |
-| Coca Zero     | 0.50          |
+| Coca Zero     | 0.64          |
 
 ## FAQ
 
